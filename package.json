@@ -9,9 +9,9 @@
     "start": "nodemon --watch --exec node --experimental-modules server.js"
   },
   "engines": {
-    "node": "14.17.3",
+    "node": "14.x",
     "npm": "6.14.7"
-},
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:jacob-d242/Omartkenya2021.git"
