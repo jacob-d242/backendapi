@@ -5,7 +5,6 @@
   "description": "Omart Kenya",
   "main": "index.js",
   "scripts": {
-    "build": "cd frontend && npm install && npm run build",
     "start": "nodemon --watch --exec node --experimental-modules server.js"
   },
   "engines": {
