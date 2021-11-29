@@ -5,7 +5,7 @@
   "description": "Omart Kenya",
   "main": "index.js",
   "scripts": {
-    "start":"node server.js",
+    "start": "node server.js",
     "start-server": "nodemon  server.js"
   },
   "repository": {
@@ -20,6 +20,7 @@
   "homepage": "git@github.com:jacob-d242/Omartkenya2021.git",
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-async-handler": "^1.1.4",
