@@ -5,7 +5,8 @@
   "description": "Omart Kenya",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --watch server --exec node --experimental-modules server.js"
+    "start":"node server.js",
+    "start-server": "nodemon  server.js"
   },
   "repository": {
     "type": "git",
