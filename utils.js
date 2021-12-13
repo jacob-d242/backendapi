@@ -117,9 +117,9 @@ export const payOrderEmailTemplate = (order) => {
   <p>
   ${order.shippingAddress.fullName},<br/>
   ${order.shippingAddress.address},<br/>
-  ${order.shippingAddress.city},<br/>
-  ${order.shippingAddress.country},<br/>
-  ${order.shippingAddress.postalCode}<br/>
+  ${order.shippingAddress.town},<br/>
+  ${order.shippingAddress.county},<br/>
+  ${order.shippingAddress.phoneNumber}<br/>
   </p>
   <hr/>
   <p>
