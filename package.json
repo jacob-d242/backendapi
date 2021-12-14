@@ -16,6 +16,9 @@
   "bugs": {
     "url": "git@github.com:jacob-d242/Omartkenya2021.git"
   },
+  "engines": {
+    "node": "10.x"
+  },
   "homepage": "git@github.com:jacob-d242/Omartkenya2021.git",
   "dependencies": {
     "bcryptjs": "^2.4.3",
