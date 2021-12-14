@@ -5,9 +5,7 @@
   "description": "Omart Kenya",
   "main": "server.js",
   "scripts": {
-    "start" :"node server.js",
     "start": "nodemon server.js"
-   
   },
   "repository": {
     "type": "git",
@@ -32,6 +30,6 @@
     "socket.io": "^4.0.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.15"
   }
 }
