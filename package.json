@@ -3,8 +3,9 @@
   "type": "module",
   "version": "1.0.0",
   "description": "Omart Kenya",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start" :"node server.js",
     "start": "nodemon server.js"
    
   },
